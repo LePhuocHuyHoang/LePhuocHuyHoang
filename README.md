@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😄 You can call me Hon's
 - 🌱 I’m currently learning how to become a professional programmer.
-- 💬 Ask me about languages ​​like Java, Python, SQL, T-SQL, MDX.
+- 💬 Ask me about languages ​​like Java, Python, SQL, T-SQL, MDX, HTML, CSS.
 - 📫 How to reach me: 
 
 
